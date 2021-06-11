@@ -1,0 +1,53 @@
+Assignment 3 Rubric
+Criteria	Ratings	Pts
+LibraryItem
+12 to >11 pts
+Full Marks
+Meets Criterion
+11 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+12 / 12 pts
+Book, Album, Movie classes
+12 to >11 pts
+Full Marks
+Meets Criterion
+11 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+12 / 12 pts
+Patron
+15 to >14 pts
+Full Marks
+Meets Criterion
+14 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+15 / 15 pts
+Library
+61 to >60 pts
+Full Marks
+Meets Criterion
+60 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Comments
+-4 (-2 per method): the lookup patron/item methods do not always work as expected. As you can see in the gradescope tests, a few failed due to returning None when an object was expected.
+57 / 61 pts
+Deductions
+0 pts
+Full Marks
+0 pts
+No Marks
+Comments
+-10: You have a lot of return strings that are not named as instructed per the readme. It is very important that you follow the readme EXACTLY since this is what Gradescope will base its tests off of, and doing otherwise will cause a lot of GS test to fail.
+-10 / 0 pts
+Total Points: 86
